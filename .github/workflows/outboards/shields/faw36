@@ -1,0 +1,7 @@
+# Copyright 2021 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=Germain-Gadel/zmk-config-faw36
+outboard_ref=main
+outboard_from=config/boards/shields/faw36
+outboard_to=boards/shields/faw36

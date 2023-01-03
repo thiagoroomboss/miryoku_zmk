@@ -8,5 +8,5 @@ jobs:
     uses: ./.github/workflows/main.yml
     secrets: inherit
     with:
-      board: '["seeeduino_xiao_ble"]'
-      shield: '["tbkmini_left","tbkmini_right"]'
+      board: '["faw36"]'
+      shield: '["faw36_left","faw36_right"]'
