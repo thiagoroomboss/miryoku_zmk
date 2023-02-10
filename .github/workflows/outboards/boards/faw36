@@ -2,6 +2,6 @@
 # https://github.com/manna-harbour/miryoku
 
 outboard_repository=https://github.com/Germain-Gadel/zmk-config-faw36
-outboard_ref=main
+outboard_ref=master
 outboard_from=config/boards/shields/faw36
 outboard_to=boards/shields/faw36
